@@ -9,6 +9,6 @@ inputs:
         default: "a joke for you"
         required: true
     
-    runs:
-      using: "node12"
-      main: "index.js"
+runs:
+    using: "node12"
+    main: "index.js"
